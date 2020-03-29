@@ -6,7 +6,7 @@ The page shall generate a unique password and display it to the user when clicke
 This website is available live on: [GitHub.io](https://izabelacloud.github.io/password-generator/)
 
 ## Versioning
-We use GitHub (https://github.com/) for versioning. For the versions available, see the [password-generator repository](https://github.com/izabelacloud/password-generator)
+We use GitHub (https://github.com/) for versioning. For the versions available, see the [password-generator repository](https://github.com/izabelacloud/password-generator).
 
 ## Website Preview
 
@@ -17,4 +17,4 @@ We use GitHub (https://github.com/) for versioning. For the versions available, 
 * **Izabela Petrovicova** - [izabelacloud](https://github.com/izabelacloud)
 
 ## Acknowledgments
-* Thank you @Berkeley Extension for all the support in building / refactoring my first portfolio.
+* Thank you @Berkeley Extension for all the support in building this application. 
