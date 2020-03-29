@@ -10,7 +10,7 @@ We use GitHub (https://github.com/) for versioning. For the versions available, 
 
 ## Website Preview
 
-![Password Generator](https://github.com/izabelacloud/izabela-petrovicova-portfolio/blob/master/assets/images/ip-portfolio-header.png?raw=true)
+![Password Generator](https://github.com/izabelacloud/password-generator/blob/master/assets/images/password-generator.png?raw=true)
 
 
 ## Authors
